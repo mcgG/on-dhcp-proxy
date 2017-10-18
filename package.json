@@ -15,7 +15,7 @@
   "dependencies": {
     "always-tail": "^0.2.0",
     "bindings": "~1.2.1",
-    "di": "git+https://github.com/RackHD/di.js.git",
+    "di": "git+https://github.com/mcgG/di.js.git",
     "ipv6": "^3.1.1",
     "lodash": "^3.6.0",
     "on-core": "git+https://github.com/mcgG/on-core.git"
